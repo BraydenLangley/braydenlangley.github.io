@@ -1,2 +1,1 @@
-# peercert
- Certify a Peer
+# Pages Demo
